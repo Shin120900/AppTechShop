@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name"><b>Tech Shop</b></string>
+    <!--    activity-->
+    <string name="txt_home">Trang chủ</string>
+    <string name="txt_product">Sản phẩm</string>
+    <string name="txt_cart">Giỏ hàng</string>
+    <string name="txt_about">Thông tin</string>
+    <string name="txt_user">Tài khoản</string>
+
+    <!-- Login fragment -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_login"><b>Đăng nhập</b></string>
+    <string name="txt_register"><b>Đăng kí</b></string>
+    <string name="txt_email">Email</string>
+    <string name="txt_pass">Mật Khẩu</string>
+
+    <!--    Home fragment-->
+    <string name="txt_laptop"><b>LapTop</b></string>
+    <string name="txt_smartphone"><b>SmartPhone</b></string>
+    <string name="txt_part"><b>Part</b></string>
+
+    <!--    Producr fragment-->
+    <string name="txt_list"><b>Danh sách sản phẩm</b></string>
+    <string name="txt_search"><b>Tìm kiếm</b></string>
+
+    <!--    Cart fragment-->
+    <string name="txt_title"><b>Giỏ hàng của bạn</b></string>
+    <string name="txt_total">Tổng tiền :</string>
+    <string name="txt_clear">Xóa giỏ hàng</string>
+    <string name="txt_order">Đặt hàng</string>
+
+    <!--    Register fragment-->
+    <string name="txt_frist_name">Họ Đệm</string>
+    <string name="txt_last_name">Tên</string>
+
+
+</resources>
